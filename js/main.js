@@ -16,7 +16,6 @@ function start() {
 	shopName = prompt('Название вашего магазина?', '').toUpperCase();
 	time = 21;
 };
-// start();
 
 //Задаем объект для хранения основных данных
 let mainList = {
